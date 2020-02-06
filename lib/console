@@ -1,0 +1,6 @@
+require "waiter.rb"
+require "customer.rb"
+require "meal.rb"
+require "pry"
+
+binding.pry
